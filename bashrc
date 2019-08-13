@@ -3,7 +3,7 @@
 # for examples
 
 # Alias definitions.
-source ~/src/bash_aliases
+source ~/src/dotfiles/bash_aliases
 
 # if running in terminal ...
 # if test -t 1; then
