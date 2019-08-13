@@ -1,5 +1,6 @@
-export PATH=$HOME/bin:/usr/local/bin:$PATH
-export ZSH="/root/.oh-my-zsh"
+export PATH=$HOME/bin:/usr/local/bin:/bin:/sbin:/usr/bin:$PATH
+source ~/.profile
+export ZSH=~/.oh-my-zsh/
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE='nerdfont-complete'
