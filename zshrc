@@ -1,3 +1,4 @@
+ZSH_DISABLE_COMPFIX=true
 export PATH=$HOME/bin:/usr/local/bin:/bin:/sbin:/usr/bin:$PATH
 source ~/.profile
 export ZSH=~/.oh-my-zsh/
@@ -19,8 +20,6 @@ plugins=(
   heroku
   npm
   pip
-  virtualenv
-  virtualenvwrapper
 )
 
 source $ZSH/oh-my-zsh.sh

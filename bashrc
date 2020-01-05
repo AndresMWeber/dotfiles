@@ -1,1 +1,1 @@
-source ~/src/dotfiles/bash_aliases
+source ~/dotfiles/bash_aliases

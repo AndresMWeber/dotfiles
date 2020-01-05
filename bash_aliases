@@ -1,4 +1,4 @@
-export WUSER=/mnt/c/Users/Daemonecles
+export WUSER=/mnt/c/Users/andre
 
 alias aliasconfig='vim ~/src/dotfiles/bash_aliases'
 alias zshconfig='vim ~/src/dotfiles/zshrc'
