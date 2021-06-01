@@ -1,12 +1,12 @@
 export WUSER=/mnt/c/Users/Daemonecles
 
-alias aliasconfig='vim ~/src/dotfiles/bash_aliases'
-alias zshconfig='vim ~/src/dotfiles/zshrc'
-alias bashconfig='vim ~/src/dotfiles/bashrc'
+alias aliasconfig='nano ~/dotfiles/bash_aliases'
+alias zshconfig='nano ~/dotfiles/zshrc'
+alias bashconfig='nano ~/dotfiles/bashrc'
 
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
+alias ll='exa -alF'
+alias la='exa'
+alias l='exa -GF'
 
 alias dev='cd /code/dev/'
 
